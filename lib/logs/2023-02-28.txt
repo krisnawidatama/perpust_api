@@ -1,0 +1,51 @@
+Time : 02:26:16
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,address,ph_number)  values ('12345','Krisna Widatama','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 02:25:38
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,address,ph_number)  values ('12345','Krisna Widatama','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 02:01:15
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'perpus.studentsx' doesn't exist
+Raw SQL : insert into studentsx  (uid,nama,address,ph_number)  values ('12345','Krisna Widatama','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:42:56
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'perpus.studentsx' doesn't exist
+Raw SQL : insert into studentsx  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:39:28
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:39:13
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:38:45
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:38:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:38:01
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:37:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:37:17
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:36:54
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
+
+Time : 01:35:29
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ph_number' in 'field list'
+Raw SQL : insert into students  (uid,nama,dob,date_registered,address,ph_number)  values ('12345','Krisna Widatama','08-02-2023','11-02-2023','Perum. Graha Kartika No. 14 Blok Gatotkaca, Sedayu','081907946745')
